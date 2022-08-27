@@ -1,0 +1,3 @@
+[submodule "reack-hooks"]
+	path = reack-hooks
+	url = git@github.com:cristianorregodev/reack-hooks.git
